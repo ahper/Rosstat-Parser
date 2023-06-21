@@ -1,0 +1,257 @@
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\bd_CourseProject.exe.config
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\bd_CourseProject.exe
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\bd_CourseProject.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.AssemblyReference.cache
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.Properties.Resources.resources
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.GenerateResource.cache
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.exe
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.src.view.ExcelParsingWindow.resources
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.CopyComplete
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.src.view.ConnectionDBWindow.resources
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Aspose.Zip.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\SharpCompress.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Memory.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Aspose.Zip.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Memory.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.ValueTuple.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.ValueTuple.xml
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\MaterialDesignColors.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\MaterialSkin.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\bd_CourseProject.exe.config
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\bd_CourseProject.exe
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\bd_CourseProject.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Aspose.Zip.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\MaterialDesignColors.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\MaterialSkin.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\SharpCompress.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Memory.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.ValueTuple.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Aspose.Zip.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Memory.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\System.ValueTuple.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.AssemblyReference.cache
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.Properties.Resources.resources
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.src.view.ConnectionDBWindow.resources
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.src.view.ExcelParsingWindow.resources
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.GenerateResource.cache
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.csproj.CopyComplete
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.exe
+C:\Users\ahtir\Desktop\ВУЗ\3 КУРС\1 СЕМЕСТР\МАКОВИЙ\КУРСОВОЙ\bd_CourseProject\bd_CourseProject\bd_CourseProject\obj\Debug\bd_CourseProject.pdb
+C:\Users\ahtir\Desktop\bd_CourseProject\bd_CourseProject\bd_CourseProject\bin\Debug\SevenZipSharp.dll
